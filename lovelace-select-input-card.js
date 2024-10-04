@@ -1,4 +1,4 @@
-// lovelace-select-input-card.js - Version 2.5.0
+// lovelace-select-input-card.js - Version 0.0.2
 
 // Import the LitElement base class and html helper function
 const LitElement = Object.getPrototypeOf(
